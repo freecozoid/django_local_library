@@ -1,1 +1,0 @@
-web: gunicorn sitic.wsgi --log-file -
