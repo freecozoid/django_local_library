@@ -25,7 +25,7 @@ SECRET_KEY = '4-rv#0ob#yq4k=+9yy6rxiz&*o=+u9o&f4xa9!@r#^huajt(1f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [morning-waters-55471.herokuapp.com]
 
 
 # Application definition
